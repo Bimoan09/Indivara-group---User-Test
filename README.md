@@ -1,7 +1,7 @@
 Berikut saya lampirkan Jawaban dari interview user :
 
 1. Module odoo rest_API_products -> module odoo 17 community untuk GET data products dari melalui API 
-   Note : Jika di localhost terdapat lebih dari 1 database, maka tambahkan parameter dibawah ini di odoo.conf anda:
+      Note : Jika di localhost terdapat lebih dari 1 database, maka tambahkan parameter dibawah ini di odoo.conf anda:
    dbfilter = {nama_db_di_local}
 2. 5 file python yang berisi code jawaban dari pertanyaan yang dilampirkan:
     1. fibonaci.py
