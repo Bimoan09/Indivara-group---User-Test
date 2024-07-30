@@ -12,13 +12,13 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "localhost:8017/api/products",
+					"raw": "localhost:8017/get/products",
 					"host": [
 						"localhost"
 					],
 					"port": "8017",
 					"path": [
-						"api",
+						"get",
 						"products"
 					]
 				}
@@ -31,13 +31,13 @@
 				"method": "POST",
 				"header": [],
 				"url": {
-					"raw": "localhost:8017/api/products",
+					"raw": "localhost:8017/get/products",
 					"host": [
 						"localhost"
 					],
 					"port": "8017",
 					"path": [
-						"api",
+						"get",
 						"products"
 					]
 				}
