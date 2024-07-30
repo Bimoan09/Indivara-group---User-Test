@@ -10,3 +10,4 @@ Berikut saya lampirkan Jawaban dari interview user :
     4. pallindrome.py
     5. reverse_string.py
 3. Collection API dari hasil testing Endpoint API melalui Postman
+4. Screenshoot hasil testing API melalui postman
