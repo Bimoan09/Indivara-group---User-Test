@@ -5,7 +5,7 @@ from odoo.http import request
 import json
 
 class ProductController(http.Controller):
-    @http.route('/api/products', type='http', auth='public', csrf=False)
+    @http.route('/get/products', type='http', auth='public', csrf=False)
     def get_products(self, **kw):
         # Cek metode HTTP yang digunakan
         if request.httprequest.method != 'GET':
